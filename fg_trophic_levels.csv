@@ -1,0 +1,65 @@
+Functional group,group,TL,TL_round
+Benthic bacteria,BB,1,1
+Bacteria,BB,1,1
+Scallops and penshells,BC,2,2
+Penaeid shrimp,BD,2.3,2
+Sea cucumbers,BFD,2.5,2
+Sessile invertebrates,BFF,2,2
+Crabs and lobsters,BFS,3.3,3
+Herbivorous echinoderms,BG,2,2
+Carnivorous macrobenthos,BMD,2.2,2
+Infaunal Epifaunal Meiobenthos,BML,2,2
+Bivalves,BMS,2,2
+Snails,BO,2.5,2
+Bacteria,BO,1,1
+Adult blue crab,CEP,2.2,2
+Dissolved inorganic nitrogen,DIN,1,1
+Labile detritus,DL,1,1
+Refractory detritus,DR,1,1
+Dissolved carbon,DC,1,1
+Gulf coney,FBP,3.4,3
+Extranjero,FDB,3.4,3
+Leopard grouper,FDC,3.4,3
+Gulf grouper,FDD,3.4,3
+Amarillo snapper,FDE,3.4,3
+Barred pargo,FDF,3.68,3
+Groupers and snappers,FDM,3.65375,3
+Drums and croakers,FDO,3.956111111,3
+Grunts,FDP,3.79,3
+Herbivorous fish,FDS,2.190285714,2
+Large reef fish,FMM,3.773541667,3
+Small reef fish,FMN,3.261666667,3
+Small demersal fish,FPL,3.814583333,3
+Small migratory sharks,FPO,3.655,3
+Pacific Angel shark,FPS,4.14,4
+Large pelagic sharks,FVB,4.374214286,4
+Guitarfish,FVD,3.563333333,3
+"Skates, rays and sharks",FVO,3.275933333,3
+Flatfish,FVS,4.5,4
+Mojarra,FVT,3.47,3
+Scorpionfish,FVV,3.653333333,3
+Macroalgae,MA,1,1
+Microphytobenthos,MB,1,1
+Pelagic bacteria,PB,1,1
+Pinnipeds,PIN,4,4
+Large phytoplankton,PL,1,1
+Small phytoplankton,PS,1,1
+Adult blue shrimp,PWN,3,3
+Reef associated turtles,REP,3.27,3
+Sea birds,SB,3.6,3
+Seagrass,SG,1,1
+Lanternfish and deep,SHB,4.5,4
+Totoaba,SHC,4.2,4
+Large pelagics,SHD,4.047946019,4
+Mackerel,SHP,3.84,3
+Hake,SHR,3.9,3
+Oceanic sea turtles,SP,3.44,3
+Small pelagics,SSK,3.103333333,3
+Vaquita,WDG,4.1,4
+Mysticeti,WHB,3.23,3
+Orca,WHS,5.5,5
+Odontocetae,WHT,4.54,4
+Jellyfish,ZG,3.1,3
+Large zooplankton,ZL,2.4,2
+Squid,ZM,3.2,3
+Small zooplankton,ZS,2.1,2

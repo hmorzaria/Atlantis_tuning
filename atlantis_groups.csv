@@ -1,0 +1,67 @@
+name,nombre,nombre_abv,species,group
+Large phytoplankton,Fitoplancton grande,Fitoplancton gr,Diatom_N,PL
+Small phytoplankton,Fitoplancton pequeño,Fitoplancton pq,PicoPhytopl_N,PS
+Jellyfish,Medusas,Medusas,Gelat_Zoo_N,ZG
+Large zooplankton,Zooplancton grande,Zooplancton gr,Carniv_Zoo_N,ZL
+Squid,Calamar,Calamar,Zoo_N,ZM
+Small zooplankton,Zooplancton pequeño,Zooplancton pq,MicroZoo_N,ZS
+Adult blue crab,Jaiba,Jaiba,Cephalopod_N2,CEP2
+Adult blue shrimp,Camaron azul,Camaron azul,Prawn_N1,PWN1
+Juv blue shrimp,Camaron azul juvenil,Camaron azul juv,Prawn_N2,PWN2
+Pelagic bacteria,Bacterias pelagicas,Bacterias pelagicas,Pelag_Bact_N,PB
+Benthic bacteria,Bacterias bentonicas,Bacterias bentonicas,Sed_Bact_N,BB
+Penaeid shrimp,Camaron peneido,Camaron peneido,Deposit_Feeder_N,BD
+Small migratory sharks,Tiburones migratorios pequeños,Tiburones mig pq,Planktiv_O_Fish_N,FPO
+Grunts,Burro,Burro,Demersal_P_Fish_N,FDP
+Groupers and snappers,Pargos y meros,Pargos y meros,Demersal_M_Fish_N,FDM
+Totoaba,Totoaba,Totoaba,Shark_C_N,SHC
+Scorpionfish,Peces escorpion,Peces escorpion,Pisciv_V_Fish_N,FVV
+Orca,Orca,Orca,Whale_Small_N,WHS
+NH3,NH3,NH3,NH3,NH3
+NO3,NO3,NO3,NO3,NO3
+Chl. A,Chl. A,Chl. A,Chl_a,Chl_a
+Carrion detritus,Detritus,Detritus,Carrion_N,DC
+Bivalves,Bivalvos,Bivalvos,Macrobenth_Shallow_N,BMS
+Carnivorous macrobenthos,Macrobentos carnivoro,Macrobentos carnivoro,Macrobenth_Deep_N,BMD
+Infaunal Epifaunal Meiobenthos,Meiobentos epifauna e infauna,Meiobentos,Megazoobenthos_N,BML
+Scallops and penshells,Callos de hacha y escarlopa,Callos,Benthic_Carniv_N,BC
+Macroalgae,Macroalgas,Macroalgas,Macroalgae_N,MA
+Seagrass,Pastos marinos,Pastos marinos,Seagrass_N,SG
+Crabs and lobsters,Cangrejos y langostas,Cangrejos y langostas,Filter_Shallow_N,BFS
+Sea cucumbers,Pepinos de mar,Pepinos de mar,Filter_Deep_N,BFD
+Sessile invertebrates,Invertebrados sesiles,Invertebrados sesiles,Filter_Other_N,BFF
+Herbivorous echinoderms,Echinodermos herbivoros,Echinodermos herbivoros,Benthic_grazer_N,BG
+Guitarfish,Guitarras,Guitarras,Pisciv_D_Fish_N,FVD
+Flatfish,Lenguados,Lenguados,Pisciv_S_Fish_N,FVS
+Large reef fish,Peces arrecifales grandes,Peces arrecifales gr,Mesopel_M_Fish_N,FMM
+Small reef fish,Peces arrecifales pequeños,Peces arrecifales pq,Mesopel_N_Fish_N,FMN
+Barred pargo,Pargo coconaco,Pargo coconaco,Demersal_F_Fish_N,FDF
+Gulf grouper,Baya,Baya,Demersal_D_Fish_N,FDD
+Pacific Angel shark,Angelito,Angelito,Planktiv_S_Fish_N,FPS
+Small demersal fish,Peces demersales pequeños,Peces demersales pq,Planktiv_L_Fish_N,FPL
+Mojarra,Mojarra,Mojarra,Pisciv_T_Fish_N,FVT
+Large pelagic sharks,Tiburones pelagicos grandes,Tiburones pelagicos gr,Pisciv_B_Fish_N,FVB
+Gulf coney,Baqueta,Baqueta,Benthopel_Fish_N,FBP
+Amarillo snapper,Pargo amarillo,Pargo amarillo,Demersal_E_Fish_N,FDE
+Lanternfish and deep,Peces de profundidad,Peces de profundidad,Shark_B_N,SHB
+Large pelagics,Pelagicos mayores,Pelagicos mayores,Shark_D_N,SHD
+Mackerel,Macarela,Macarela,Shark_P_N,SHP
+"Skates, rays and sharks","Rayas, mantas y tiburones","Rayas, mantas y tiburones",Pisciv_O_Fish_N,FVO
+Sea birds,Aves marinas,Aves marinas,Seabird_N,SB
+Oceanic sea turtles,Tortugas marinas oceanicas,Tortugas oceanicas,Penguin_N,SP
+Herbivorous fish,Peces herbivoros,Peces herbivoros,Demersal_S_Fish_N,FDS
+Extranjero,Extranjero,Extranjero,Demersal_B_Fish_N,FDB
+Leopard grouper,Cabrilla sardinera,Cabrilla sardinera,Demersal_DC_Fish_N,FDC
+Drums and croakers,Curvinas y berrugatas,Curvinas y berrugatas,Demersal_O_Fish_N,FDO
+Hake,Merluza,Merluza,Shark_R_N,SHR
+Small pelagics,Pelagicos menores,Pelagicos menores,SkateRay_N,SSK
+Pinnipeds,Lobos marinos,Lobos marinos,Pinniped_N,PIN
+Mysticeti,Misticetos,Misticetos,Whale_Baleen_N,WHB
+Odontocetae,Odontocetos,Odontocetos,Whale_Tooth_N,WHT
+Reef associated turtles,Tortugas marinas arrecifales,Tortugasarrecifales,Reptile_N,REP
+Vaquita,Vaquita,Vaquita,Dugong_N,WDG
+Labile detritus,Detritus labil,Detritus labil,Lab_Det_N,DL
+Microphytobenthos,Microfitobentos,Microfitobentos,MicroPB_N,MB
+Snails,Caracoles,Caracoles,Meiobenth_N,BO
+Refractory detritus,Detritus refractario,Detritus refractario,Ref_Det_N,DR
+Juv blue crab,Jaibas juveniles,Jaibas juveniles,Cephalopod_N1,CEP1

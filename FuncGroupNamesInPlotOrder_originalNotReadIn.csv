@@ -1,0 +1,63 @@
+NetCDFName,CODE,Name,VirgBToCurrentB,unfishedB,1985B
+Planktiv_L_Fish,FPL,Small demersal fish,1,301583.0655,1257666.402
+Planktiv_O_Fish,FPO,Small migratory sharks,1,172628.3069,605746.6785
+Planktiv_S_Fish,FPS,Pacific Angel shark,1,3681.834732,5241.358778
+Pisciv_D_Fish,FVD,Guitarfish,1,63686.1149,107114.9853
+Pisciv_V_Fish,FVV,Scorpionfish,1,8765.014872,13815.32327
+Pisciv_S_Fish,FVS,Flatfish,1,38609.58298,34639.43854
+Pisciv_B_Fish,FVB,Large pelagic sharks,1,45592.14895,61222.23451
+Pisciv_T_Fish,FVT,Mojarra,1,23798.28652,49587.5611
+Pisciv_O_Fish,FVO,Skates rays and sharks,1,62080.89985,242860.3482
+Mesopel_M_Fish,FMM,Large reef fish,1,56754.71296,122935.3568
+Mesopel_N_Fish,FMN,Small reef fish,1,151508.8779,620879.1467
+Benthopel_Fish,FBP,Gulf coney,1,5000,15275.25019
+Demersal_D_Fish,FDD,Gulf grouper,1,2993.827836,3316.547319
+Demersal_E_Fish,FDE,Amarillo snapper,1,3509.735523,11655.65284
+Demersal_S_Fish,FDS,Herbivorous fish,1,14792.63249,28034.98548
+Demersal_M_Fish,FDM,Groupers and snappers,1,39348.46262,152870.1955
+Demersal_P_Fish,FDP,Grunts,1,14241.80576,41246.60786
+Demersal_B_Fish,FDB,Extranjero,1,6225.77374,1636.913041
+Demersal_DC_Fish,FDC,Leopard grouper,1,3687.885012,13013.64555
+Demersal_O_Fish,FDO,Drums and croakers,1,160106.4967,935217.5302
+Demersal_F_Fish,FDF,Barred pargo,1,1808.887612,1853.00706
+Shark_B,SHB,Lanternfish and deep,1,109116.1624,142004.4615
+Shark_D,SHD,Large pelagics,1,25687.66293,64176.53612
+Shark_C,SHC,Totoaba,1,919.1015325,11560
+Shark_P,SHP,Mackerel,1,30304.36543,4164.00606
+Shark_R,SHR,Hake,1,28322,982.2586796
+SkateRay,SSK,Small pelagics,1,180450,80966.10631
+Seabird,SB,Sea birds,1,874.3,4.3715
+Penguin,SP,Oceanic sea turtles,1,231.2,231.2
+Pinniped,PIN,Pinnipeds,1,1483,6987.403286
+Reptile,REP,Reef associated turtles,1,346.8,346.8
+Whale_Baleen,WHB,Mysticeti,1,159834,37146.92332
+Whale_Small,WHS,Orca,1,5556,5556
+Whale_Tooth,WHT,Odontocetae,1,32792.92796,23161.87953
+Dugong,WDG,Vaquita,1,3.065480692,11.32725882
+Cephalopod,CEP,Cephalopod,1,47520.3,29911.55019
+Filter_Shallow,BFS,Crabs and lobsters,1,42295,463305.496
+Filter_Other,BFF,Sessile invertebrates,1,2462.238942,29252.33497
+Filter_Deep,BFD,Sea cucumbers,1,2454.349439,37159.2965
+Benthic_grazer,BG,Herbivorous echinoderms,1,6104.865573,79461.36222
+Macrobenth_Deep,BMD,Carnivorous macrobenthos,1,62020.60077,81612.69474
+Megazoobenthos,BML,Megazoobenthos,1,198855.42,502947
+Macrobenth_Shallow,BMS,Bivalves,1,27051.76071,26494.37726
+Prawn,PWN,Adult blue shrimp,1,21323,30419.67799
+Carniv_Zoo,ZL,Large zooplankton,1,1097135.393,1097135.393
+Deposit_Feeder,BD,Penaeid shrimp,1,42881.31965,1891.886506
+Macroalgae,MA,Macroalgae,1,10751,28388.7694
+MicroPB,MB,Microphytobenthos,1,4047.474295,4047.474295
+Seagrass,SG,Seagrass,1,43061,43061
+Benthic_Carniv,BC,Scallops and penshells,1,1293.217164,3566.720126
+Gelat_Zoo,ZG,Jellyfish,1,20978.89999,20978.89999
+Diatom,PL,Large phytoplankton,1,871.7960434,871.7960434
+PicoPhytopl,PS,Small phytoplankton,1,871.7960434,871.7960434
+Zoo,ZM,Squid,1,460434,6318.492707
+MicroZoo,ZS,Small zooplankton,1,1097135.393,1097135.393
+Pelag_Bact,PB,Pelagic bacteria,1,871.7960434,871.7960434
+Sed_Bact,BB,Benthic bacteria,1,871.7960434,871.7960434
+Meiobenth,BO,Meiobenthos,1,5231.711431,39927.59893
+Lab_Det,DL,Labile detritus,1,116414.9072,116414.9072
+Ref_Det,DR,Refractory detritus,1,116414.9072,116414.9072
+Carrion,DC,Carrion detritus,1,58207.45359,58207.45359
+DIN,DIN,Dissolved inorganic nitrogen,1,357077621.6,357077621.6
