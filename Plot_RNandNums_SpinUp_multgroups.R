@@ -1,17 +1,12 @@
-#PlotOutNC_NandRN
-
-
-#   This plots Biomass (all groups) and reserve N and Nums (all Vertebrates) over time. 
-#   See/check/change the user defined block of parameters below. 
-#   It expects three things in the working directory: 
-#    FuncGroupNamesInPlotOrder.csv  , with four columns: 1)NetCDFName (like "Planktiv_S_Fish_N"); 2) CODE, like "FVO"; and 3) EMOCCName, like "Migrating Bird", and 4) Virgin Biomass/ Current Biomass, like 10. (No headers; Put "NA" if you want some subplots to be blank)
-#    VertGroupNamesInPlotOrder.csv , with 2 columns: 1) NetCDFVertName, like "Planktiv_S_Fish1_ResN",and 2) EMOCCVertName, like "Small Planktivore" (No headers)
-#    VertGroupNamesInPlotOrderNums.csv , with 2 columns: 1) NetCDFVertName, like "Planktiv_S_Fish1_Nums",and 2) EMOCCVertName, like "Small Planktivore" (No headers)
- #   AssessOrSurveyData.csv, with 1st column as year, columns 2-max are biomass of each functional group in each year. NAs are ok. 
-
-
-
-#ToDO:This should really use matplot() to make plots faster
+#' PlotOutNC_NandRN
+#' This plots Weight at age (all groups) and reserve N and Nums (all Vertebrates) over time. 
+#' See/check/change the user defined block of parameters below. 
+#' It expects three things in the working directory: 
+#' FuncGroupNamesInPlotOrder.csv  , with four columns: 1)NetCDFName (like "Planktiv_S_Fish_N"); 2) CODE, like "FVO"; and 3) EMOCCName, like "Migrating Bird", and 4) Virgin Biomass/ Current Biomass, like 10. (No headers; Put "NA" if you want some subplots to be blank)
+#' VertGroupNamesInPlotOrder.csv , with 2 columns: 1) NetCDFVertName, like "Planktiv_S_Fish1_ResN",and 2) EMOCCVertName, like "Small Planktivore" (No headers)
+#' VertGroupNamesInPlotOrderNums.csv , with 2 columns: 1) NetCDFVertName, like "Planktiv_S_Fish1_Nums",and 2) EMOCCVertName, like "Small Planktivore" (No headers)
+#' AssessOrSurveyData.csv, with 1st column as year, columns 2-max are biomass of each functional group in each year. NAs are ok. 
+#' Last modified by Hem Nalini Morzaria Luna, hmorzarialuna@gmail.com Dec 2015
 # Isaac Kaplan isaac.kaplan@noaa.gov 
 #---------
 
@@ -33,8 +28,8 @@ rm(list=ls())
 #
 
 X11()
-pathfiles="E:/AtlantisV2/SpinUp_53yrs_V2/output_SpinUp_Dec_3_2015/"
-setwd("E:/AtlantisV2/SpinUp_53yrs_V2/")
+pathfiles="E:/Atlantis/SpinUp_53yrs_V2/output_SpinUp_Dec_3_2015/"
+setwd("E:/Atlantis/SpinUp_53yrs_V2/")
 
 
 DateRun ="Final"
