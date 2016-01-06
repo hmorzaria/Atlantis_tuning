@@ -32,7 +32,7 @@ rm(list=ls())
 #Here are some things that are hardcoded, but change here if you want. 
 #
 X11()
-pathfiles="E:/AtlantisV2/SpinUp_53yrs_V2/output_SpinUp_Sep19_2015/"
+pathfiles="E:/AtlantisV2/SpinUp_53yrs_V2/output_SpinUp_Dec_3_2015/"
 setwd("E:/AtlantisV2/SpinUp_53yrs_V2/")
 
 
