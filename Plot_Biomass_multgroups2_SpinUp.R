@@ -69,7 +69,7 @@ for(eachfolder in 1:length(folders)) {
 paste(pathfiles,folders[eachfolder],sep="") %>% 
    setwd
   
-   Biom  = read.table("NgulfOutBiomIndx.txt",header=T) %>% select(1:62)
+   Biom  = read.table("NgulfOutBiomIndx.txt",header=T) %>% select(1:63)
    
  numTimeSteps<-nrow(Biom)
  
