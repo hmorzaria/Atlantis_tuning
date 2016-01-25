@@ -1280,7 +1280,7 @@ r_DR_T15   0.008     Rate of ref detrital breakdown at 15 deg C  d-1 0.008
 r_DON_T15  0.00176   Rate of DON breakdown at 15 deg C     d-1 0.00176
 r_DSi_T15  0.033     Rate of detrital Si breakdown at 15 deg C   d-1 0.05  (0.04)  
 
-FDR_DC     0.1 Fraction of carrion that breaks down to refractory detrit     0.1
+FDR_DC     0.06 Fraction of carrion that breaks down to refractory detrit     0.1
 FDR_DL     0.2 Fraction of lab detrit that breaks down to refractory detrit  0.2
 FDON_D     0.05      Fraction od DON breakdown that becomes detritus
 
@@ -7032,10 +7032,10 @@ E_FVS	0.048
 E_FVT	0.2
 E_FVO	0.19
 E_FVB	0.04705
-E_FMM	0.15615
+E_FMM	0.1561
 E_FMN	0.1685
 E_FBP	0.1875
-E_FDD	0.193725
+E_FDD	0.183725
 E_FDS	0.2735
 E_FDB	0.076
 E_FDC	0.20285
@@ -7292,7 +7292,7 @@ mL_BFS_T15	0	Linear mortality rate of shallow ff, 15 deg C d-1 -0.000001 0 - 0.0
 mL_BFF_T15	0.00000000000001	Linear mortality rate of other ff, 15 deg C d-1 -0.000001 0 - 0.001   
 mL_BFD_T15	0.000000000000001	Linear mortality rate of deep filt feed, 15 deg C d-1 -0.000001 0 - 0.001  
 mL_BD_T15	0	Linear mortality rate of deposit feeder, 15 deg C d-1 -0.0005 0 - 0.001   
-mL_BC_T15	0.000000000001	Linear mortality rate of inf carniv, 15 deg C d-1 -0.0001 0 - 0.003   
+mL_BC_T15	0.00000000001	Linear mortality rate of inf carniv, 15 deg C d-1 -0.0001 0 - 0.003   
 mL_BG_T15	0.0000000000001	Linear mortality rate of herbiv grazer, 15 deg C d-1 -0.00001 0 - 0.001   
 mL_BMS_T15	0.00000000000001	Linear mort rate of shallow macrozooben, 15 deg C d-1 -0.0001 0 - 0.002   
 mL_BML_T15	0	Linear mort rate of megazoobenthos, 15 deg C d-1 -0.0001 0 - 0.002    

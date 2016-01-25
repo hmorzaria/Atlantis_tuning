@@ -1280,7 +1280,7 @@ r_DR_T15   0.008     Rate of ref detrital breakdown at 15 deg C  d-1 0.008
 r_DON_T15  0.00176   Rate of DON breakdown at 15 deg C     d-1 0.00176
 r_DSi_T15  0.033     Rate of detrital Si breakdown at 15 deg C   d-1 0.05  (0.04)  
 
-FDR_DC     0.1 Fraction of carrion that breaks down to refractory detrit     0.1
+FDR_DC     0.065 Fraction of carrion that breaks down to refractory detrit     0.1
 FDR_DL     0.2 Fraction of lab detrit that breaks down to refractory detrit  0.2
 FDON_D     0.05      Fraction od DON breakdown that becomes detritus
 
@@ -6304,8 +6304,8 @@ mum_FPS 10
 mum_FPL 10        
 2500.558592 6573.841532 1698.251788 13532.1951 17788.09878 20412.187788 22554.611612 25098.794016 25394.926884 245400.31458
          
-mum_FPO 10        
-6030070 8550000 15800080 22810080 24010030 25220450 26420000 27600730 28810900 30030000
+mum_FPO	10								
+3618042	5130000	9480048	13686048	14406018	15132270	15852000	16560438	17286540	18018000
          
 mum_FVD 10        
 430.053886777033 1550.6531968942 3250.52589791401 5050.97155754655 7250.94301591105 9550.710158212 12550.8445274343 14050.1327782368 32050.1706578782 35900.3557145452
@@ -7031,10 +7031,10 @@ E_FVS	0.048
 E_FVT	0.2
 E_FVO	0.188875
 E_FVB	0.04705
-E_FMM	0.14615
+E_FMM	0.1461
 E_FMN	0.17225
 E_FBP	0.1875
-E_FDD	0.193725
+E_FDD	0.183725
 E_FDS	0.2735
 E_FDB	0.064975
 E_FDC	0.19285
@@ -7046,7 +7046,7 @@ E_SHP	0.8525
 E_SHB	0.99
 E_SHR	0.13375
 E_SSK	0.1265
-E_SB	0.10975
+E_SB	0.09975
 E_SP	0.016
 E_REP	0.09125
 E_PIN	0.6521
@@ -7289,7 +7289,7 @@ mL_ZL_T15	0	Linear mortality rate of large zoopl, 15 deg C d-1 -0.001 0 - 0.04
 mL_ZM_T15	0.000001	Linear mortality rate of meso-zoopl, 15 deg C d-1 -0.01 0 - 0.09    
 mL_ZS_T15	0	Linear mortality rate of microzoopl, 15 deg C d-1 -0.0015 0 - 1    
 mL_BFS_T15	0	Linear mortality rate of shallow ff, 15 deg C d-1 -0.000001 0 - 0.001   
-mL_BFF_T15	0.00000000000001	Linear mortality rate of other ff, 15 deg C d-1 -0.000001 0 - 0.001   
+mL_BFF_T15	0.000000000000001	Linear mortality rate of other ff, 15 deg C d-1 -0.000001 0 - 0.001   
 mL_BFD_T15	0.000000000001	Linear mortality rate of deep filt feed, 15 deg C d-1 -0.000001 0 - 0.001  
 mL_BD_T15	0	Linear mortality rate of deposit feeder, 15 deg C d-1 -0.0005 0 - 0.001   
 mL_BC_T15	0.0000000000001	Linear mortality rate of inf carniv, 15 deg C d-1 -0.001 0 - 0.003   
