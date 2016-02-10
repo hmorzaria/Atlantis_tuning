@@ -28,7 +28,7 @@ rm(list=ls())
 #
 
 X11()
-pathfiles="E:/Atlantis/SpinUp_53yrs_V2/output_SpinUp_Jan_10_2016/"
+pathfiles="E:/Atlantis/SpinUp_53yrs_V2/ouputs_SpinUp_Feb6_2016/"
 setwd("E:/Atlantis/SpinUp_53yrs_V2/")
 
 
