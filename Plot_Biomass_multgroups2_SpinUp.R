@@ -25,7 +25,7 @@ rm(list=ls())
 #Here are some things that are hardcoded, but change here if you want. 
 #
 X11()
-pathfiles="E:/Atlantis/SpinUp_53yrs_V2/ouputs_SpinUp_Feb6_2016/"
+pathfiles="E:/Atlantis/SpinUp_53yrs_V2/outputs_SpinUp_Feb_14_2016/"
 file.dir = "E:/Archivos/1Archivos/NOAA/Atlantis model files/Atlantis_NEW_code/Plot code" # set working directory, place with  CSV file (see below)
 
 setwd("E:/Atlantis/SpinUp_53yrs_V2/")
