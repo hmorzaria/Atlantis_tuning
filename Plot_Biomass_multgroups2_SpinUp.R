@@ -25,7 +25,7 @@ rm(list=ls())
 #Here are some things that are hardcoded, but change here if you want. 
 #
 X11()
-pathfiles="E:/Atlantis/SpinUp_53yrs_V2/outputs_SpinUp_Feb_14_2016/"
+pathfiles="E:/Atlantis/SpinUp_53yrs_V2/outputs_SpinUp_Feb18_2016/"
 file.dir = "E:/Archivos/1Archivos/NOAA/Atlantis model files/Atlantis_NEW_code/Plot code" # set working directory, place with  CSV file (see below)
 
 setwd("E:/Atlantis/SpinUp_53yrs_V2/")
@@ -36,7 +36,7 @@ DateRun ="Final"
 
 #This is just to keep track of the runs, need to paste biom_indx in the folder with the run name
 folders = c("OUT_AtlantisGOC_53yr_SpinUp_1","OUT_AtlantisGOC_53yr_SpinUp_2","OUT_AtlantisGOC_53yr_SpinUp_3","OUT_AtlantisGOC_53yr_SpinUp_4","OUT_AtlantisGOC_53yr_SpinUp_5","OUT_AtlantisGOC_53yr_SpinUp_6","OUT_AtlantisGOC_53yr_SpinUp_7","OUT_AtlantisGOC_53yr_SpinUp_8","OUT_AtlantisGOC_53yr_SpinUp_9","OUT_AtlantisGOC_53yr_SpinUp_10")
-
+#
 AtlantisBoxesToUse = 0:65 # Isaac added this Feb 2014. You can put box 0 here. 
 boxesToUse<- AtlantisBoxesToUse +1 # Isaac added this Feb 2014.  Box 0 becomes box 1, Box 1 becomes box 2, because Indexing in R starts with 1, not 0.
 year0<-1955   # or whatever is appropriate. 
@@ -141,8 +141,11 @@ this.group = rbind(this.group,unfishedB.frame,X1985B.frame)
   #scale_colour_manual(values = c("goldenrod","blue3","darkred","black")) +
   #scale_linetype_manual(values=c("solid","solid","dashed", "dashed")) +
   
-  scale_colour_manual(values = c("darkolivegreen2","dodgerblue3","darkmagenta","black","darkturquoise","hotpink","firebrick2","darkorange","darkgoldenrod","forestgreen","darkred","black")) +
-  scale_linetype_manual(values=c("solid","solid","solid","solid","solid","solid","solid","solid","solid","solid","dashed","dashed")) +
+    scale_colour_manual(values = c("darkolivegreen2","dodgerblue3","darkmagenta","black","darkturquoise","hotpink","firebrick2","darkorange","darkgoldenrod","forestgreen","darkred","black")) +
+    scale_linetype_manual(values=c("solid","solid","solid","solid","solid","solid","solid","solid","solid","solid","dashed","dashed")) +
+    
+  #scale_colour_manual(values = c("dodgerblue3","darkmagenta","black","darkturquoise","hotpink","firebrick2","darkorange","darkgoldenrod","forestgreen","darkred","black")) +
+  #scale_linetype_manual(values=c("solid","solid","solid","solid","solid","solid","solid","solid","solid","dashed","dashed")) +
  ggtitle(this.name$Name)
   
   graph1 <-  sp.graph + theme(plot.title = element_text(size = 9), panel.grid.minor = element_line(colour = NA), panel.background = element_rect(fill = NA, colour = NA),
