@@ -23,7 +23,13 @@ for (eachfolder in 1:length(input.folder)){
 # use this to delete all output files in a directory
 # setwd("C:/Dropbox2/Dropbox/SpinUp")
 # setwd("C:/Atlantis/SpinUp_53yr_runs")
-# list.files(getwd(), pattern="NGulfOut*.*", full.names=TRUE, recursive=TRUE) %>% file.remove
-# 
+setwd("E:/Atlantis/MPA_CONANP_scenario")
+ list.files(getwd(), pattern="NGulfOut*.*", full.names=TRUE, recursive=TRUE) %>% file.remove
+ list.files(getwd(), pattern="log.txt$", full.names=TRUE, recursive=TRUE) %>% file.remove
+ list.files(getwd(), pattern="log.txt$", full.names=TRUE, recursive=TRUE) %>% file.remove
+ list.files(getwd(), pattern="export.ts$", full.names=TRUE, recursive=TRUE) %>% file.remove
+ list.files(getwd(), pattern="inputs.ts$", full.names=TRUE, recursive=TRUE) %>% file.remove
+ 
+ # 
 # use this to open all at_harvest files from a directory
 # 
